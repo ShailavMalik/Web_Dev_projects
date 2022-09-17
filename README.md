@@ -6,7 +6,7 @@
 
 <a href="https://bit.ly/3cbrFx6">Project1 - Blog Website </a>
 
-<a href=""> Project2 - A basic Portfolio website</a>
+<a href="https://bit.ly/3LjjBaR"> Project2 - A basic Portfolio website</a>
 
 <a href="https://bit.ly/3AC4tS5">Project3- An article page </a>
 
@@ -20,3 +20,4 @@
 
 <br>
 For code of these projects check my gitHub profile
+<br> <a href="" >@ShailavMalik</a>
